@@ -11,8 +11,6 @@
   <h3 align="center">Python Programming Beginner Tutorials</h3>
 
   <p align="center">
-    Python Programming Beginner Tutorials
-    <br />
     <a href="https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7"><strong>On Youtube</strong></a>
     <br />
     
@@ -47,6 +45,19 @@
 
 
 ### Prerequisites
+> Check version of Python
+```bash
+python3 --version
+
+python3 -V
+```
+
+> To see all the addresses of your Python installations on macOS, you should run these commands separately:
+```bash
+which -a python3
+```
+
+
 
 ### Installation
 
