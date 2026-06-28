@@ -8,12 +8,12 @@
     <img src="https://raw.githubusercontent.com/seaboie/images/main/images/logoTransparent.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Web Scraping</h3>
+  <h3 align="center">Python Programming Beginner Tutorials</h3>
 
   <p align="center">
-    Ultimate Guide To Web Scraping - Node.js & Python (Puppeteer & Beautiful Soup)
+    Python Programming Beginner Tutorials
     <br />
-    <a href="https://www.youtube.com/watch?v=XMu46BRPLqA"><strong>On Youtube 33:40»</strong></a>
+    <a href="https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7"><strong>On Youtube</strong></a>
     <br />
     
   </p>
@@ -47,30 +47,9 @@
 
 
 ### Prerequisites
-Create virtual environment  
-```bash
-python3 -m venv env
-```  
-```bash
-source env/bin/activate
-```  
-we will get `(env)`
-```bash
-krit@Macintosh python-youtube % python3 -m venv env
-krit@Macintosh python-youtube % source env/bin/activate
-(env) krit@Macintosh python-youtube %
-```  
-
-> To exit a virtual environment in the terminal  
-```bash
-deactivate
-```  
 
 ### Installation
-Install 2 package `requests` and `beautifulsoup4`  
-```bash
-pip install requests beautifulsoup4 
-```  
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
